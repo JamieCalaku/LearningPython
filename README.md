@@ -30,7 +30,7 @@ Here I follow along and practice everything taught in this [YouTube tutorial by 
 ```
 /LearningPython
 │
-├── lections/                 # Basic Python lessons (syntax, variables, etc.)
+├── lessons/                 # Basic Python lessons (syntax, variables, etc.)
 │   ├── 01_print.py
 │   ├── 02_variables.py
 │   └── 03_typecasting.py

@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b371ea3-c68a-466f-877b-10b79245b8dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LearningPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lections/01_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lections/02_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/04_rectangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/04_shopping_cart_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/05_madlib_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/06_area_circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/06_circumference_circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/03_typecasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/04_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/06_arithmetic_and_maths.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lections/01_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/01_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lections/02_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/02_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lections/03_typecasting.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +34,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="306vuWngShe3jrQII9J9F6JLoHN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,6 +50,14 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.02_variables.executor": "Run",
+    "Python.03_typecasting.executor": "Run",
+    "Python.04_input.executor": "Run",
+    "Python.04_rectangle_area.executor": "Run",
+    "Python.04_shopping_cart_program.executor": "Run",
+    "Python.05_madlib_game.executor": "Run",
+    "Python.06_area_circle.executor": "Run",
+    "Python.06_arithmetic_and_maths.executor": "Run",
+    "Python.06_circumference_circle.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -81,7 +98,15 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningPython$06_arithmetic_and_maths.coverage" NAME="06_arithmetic_and_maths Coverage Results" MODIFIED="1753043759686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lessons" />
+    <SUITE FILE_PATH="coverage/LearningPython$04_rectangle_area.coverage" NAME="04_rectangle_area Coverage Results" MODIFIED="1753036357784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/LearningPython$04_shopping_cart_program.coverage" NAME="04_shopping_cart_program Coverage Results" MODIFIED="1753041265725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/LearningPython$06_circumference_circle.coverage" NAME="06_circumference_circle Coverage Results" MODIFIED="1753044298216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/LearningPython$03_typecasting.coverage" NAME="03_typecasting Coverage Results" MODIFIED="1753034743145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lections" />
+    <SUITE FILE_PATH="coverage/LearningPython$04_input.coverage" NAME="04_input Coverage Results" MODIFIED="1753035842353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lections" />
     <SUITE FILE_PATH="coverage/LearningPython$main.coverage" NAME="main Coverage Results" MODIFIED="1753029374193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPython$06_area_circle.coverage" NAME="06_area_circle Coverage Results" MODIFIED="1753044587360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/LearningPython$05_madlib_game.coverage" NAME="05_madlib_game Coverage Results" MODIFIED="1753041691369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$02_variables.coverage" NAME="02_variables Coverage Results" MODIFIED="1753029741390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lections" />
   </component>
 </project>
