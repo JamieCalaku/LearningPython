@@ -37,16 +37,13 @@ LearningPython/
 │   ├── 05_madlib_game.py
 │   ├── 06_area_circle.py
 │   ├── 06_circumference_circle.py
-│   └── 08_calculator.py
-│
+│   ├── 08_calculator.py
+│   ├── 09_weight_convertor.py
+│   └── 10_temperature_converter.py
 ├── lessons/                    # Step-by-step lessons from the tutorial
-│   ├── 01_print.py
-│   ├── 02_variables.py
-│   ├── 03_typecasting.py
-│   ├── 04_input.py
-│   ├── 06_arithmetic_and_maths.py
-│   └── 07_if_statements.py
-│
+│   └── ...
+│   
+
 ├── projects/                   # Future custom projects
 │
 └── README.md                   # This file
