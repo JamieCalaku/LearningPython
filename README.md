@@ -1,4 +1,4 @@
-# 🐍 Learn Python with Bro Code
+# 🐍 Learning Python
 
 Welcome to my personal Python learning repository! 📘  
 Here I follow along and practice everything taught in this [YouTube tutorial by Bro Code](https://youtu.be/ix9cRaBkVe0?si=lSy3fqqcjGa2YQ0y) 🚀
@@ -28,18 +28,33 @@ Here I follow along and practice everything taught in this [YouTube tutorial by 
 *File names and numbers follow the tutorial for easy navigation.*
 
 ```
-/LearningPython
+LearningPython/
 │
-├── lessons/                 # Basic Python lessons (syntax, variables, etc.)
+│
+├── exercises/                  # Practice programs based on lessons
+│   ├── 04_rectangle_area.py
+│   ├── 04_shopping_cart_program.py
+│   ├── 05_madlib_game.py
+│   ├── 06_area_circle.py
+│   ├── 06_circumference_circle.py
+│   └── 08_calculator.py
+│
+├── lessons/                    # Step-by-step lessons from the tutorial
 │   ├── 01_print.py
 │   ├── 02_variables.py
-│   └── 03_typecasting.py
+│   ├── 03_typecasting.py
+│   ├── 04_input.py
+│   ├── 06_arithmetic_and_maths.py
+│   └── 07_if_statements.py
 │
-├── [future projects here]   # Practice projects will be added directly here
+├── projects/                   # Future custom projects
 │
-└── README.md
+└── README.md                   # This file
 ```
 
-> 📝 **Note:** Most of these files are simple, linear Python scripts without functions or classes.  
-> They are meant to demonstrate basic syntax and concepts, just like shown in the video.
- 
+> 📝 **Note:**  
+> The files in the `lessons/` folder are mostly simple, linear scripts focused on syntax and concepts.  
+> They are **not designed to be reused or run interactively** — just follow along with the tutorial.
+>
+> In contrast, the files in `exercises/` and `projects/` are standalone and **meant to be executed**,  
+> as they simulate real programs or mini-applications.
