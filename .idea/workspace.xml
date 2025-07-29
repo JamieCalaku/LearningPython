@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b371ea3-c68a-466f-877b-10b79245b8dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/26_concession_stand_program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/25_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/28_random_number_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/29_rock_paper_scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/30_dice_roller_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/27_random_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +84,10 @@
     "Python.23_num_pad.executor": "Run",
     "Python.24_quiz_game.executor": "Run",
     "Python.26_concession_stand_program.executor": "Run",
+    "Python.27_random_numbers.executor": "Run",
+    "Python.28_random_number_game.executor": "Run",
+    "Python.29_rock_paper_scissors.executor": "Run",
+    "Python.30_dice_roller_program.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -118,7 +124,7 @@
       <workItem from="1752961060314" duration="3370000" />
       <workItem from="1753298461309" duration="639000" />
       <workItem from="1753390329177" duration="3826000" />
-      <workItem from="1753615741523" duration="6347000" />
+      <workItem from="1753615741523" duration="10983000" />
     </task>
     <servers />
   </component>
@@ -148,15 +154,19 @@
     <SUITE FILE_PATH="coverage/LearningPython$14_creditcard_reverser.coverage" NAME="14_creditcard_reverser Coverage Results" MODIFIED="1753122303853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$02_variables.coverage" NAME="02_variables Coverage Results" MODIFIED="1753029741390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lections" />
     <SUITE FILE_PATH="coverage/LearningPython$09_weight_converter.coverage" NAME="09_weight_converter Coverage Results" MODIFIED="1753048536093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/LearningPython$27_random_numbers.coverage" NAME="27_random_numbers Coverage Results" MODIFIED="1753798119366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lessons" />
     <SUITE FILE_PATH="coverage/LearningPython$14_creditcard_hider.coverage" NAME="14_creditcard_hider Coverage Results" MODIFIED="1753122141194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$06_circumference_circle.coverage" NAME="06_circumference_circle Coverage Results" MODIFIED="1753044298216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$20_nested_loops.coverage" NAME="20_nested_loops Coverage Results" MODIFIED="1753218665525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lessons" />
+    <SUITE FILE_PATH="coverage/LearningPython$28_random_number_game.coverage" NAME="28_random_number_game Coverage Results" MODIFIED="1753799587442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$08_calculator.coverage" NAME="08_calculator Coverage Results" MODIFIED="1753046839585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/LearningPython$29_rock_paper_scissors.coverage" NAME="29_rock_paper_scissors Coverage Results" MODIFIED="1753800493519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$04_shopping_cart_program.coverage" NAME="04_shopping_cart_program Coverage Results" MODIFIED="1753041265725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$16_while_loop.coverage" NAME="16_while_loop Coverage Results" MODIFIED="1753123335295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lessons" />
     <SUITE FILE_PATH="coverage/LearningPython$17_compound_interest_calculator.coverage" NAME="17_compound_interest_calculator Coverage Results" MODIFIED="1753125346144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$13_valid_username.coverage" NAME="13_valid_username Coverage Results" MODIFIED="1753121056651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$19_countdown_timer.coverage" NAME="19_countdown_timer Coverage Results" MODIFIED="1753126835195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$24_quiz_game.coverage" NAME="24_quiz_game Coverage Results" MODIFIED="1753484611347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
+    <SUITE FILE_PATH="coverage/LearningPython$30_dice_roller_program.coverage" NAME="30_dice_roller_program Coverage Results" MODIFIED="1753802570359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
   </component>
 </project>
