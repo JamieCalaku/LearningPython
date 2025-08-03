@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b371ea3-c68a-466f-877b-10b79245b8dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lessons/54_class_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/55_magic_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/56_property.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/57_decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/58_exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/59_file_detection/59_file_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/59_file_detection/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/60_writing_files/60_writing_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/61_reading_files/61_reading_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/61_reading_files/input.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/61_reading_files/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/39_modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/39_modules/39_modules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/41_if_name=='main'.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/41_if_name=='main'/41_if_name=='main'.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/example_module_39.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/39_modules/example_module_39.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons/script1_41.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/41_if_name=='main'/script1_41.py" afterDir="false" />
-    </list>
+    <list default="true" id="2b371ea3-c68a-466f-877b-10b79245b8dd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,7 +164,7 @@
       <workItem from="1753615741523" duration="18779000" />
       <workItem from="1753879331760" duration="4555000" />
       <workItem from="1753916287887" duration="16228000" />
-      <workItem from="1754140136382" duration="26009000" />
+      <workItem from="1754140136382" duration="26495000" />
     </task>
     <servers />
   </component>
@@ -215,7 +198,7 @@
     <SUITE FILE_PATH="coverage/LearningPython$58_exception.coverage" NAME="58_exception Coverage Results" MODIFIED="1754247307544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lessons" />
     <SUITE FILE_PATH="coverage/LearningPython$28_random_number_game.coverage" NAME="28_random_number_game Coverage Results" MODIFIED="1753799587442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$32_default_arguments.coverage" NAME="32_default_arguments Coverage Results" MODIFIED="1753823969952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lessons" />
-    <SUITE FILE_PATH="coverage/LearningPython$61_reading_files.coverage" NAME="61_reading_files Coverage Results" MODIFIED="1754252519403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lessons/61_reading_files" />
+    <SUITE FILE_PATH="coverage/LearningPython$61_reading_files.coverage" NAME="61_reading_files Coverage Results" MODIFIED="1754252794431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lessons/61_reading_files" />
     <SUITE FILE_PATH="coverage/LearningPython$29_rock_paper_scissors.coverage" NAME="29_rock_paper_scissors Coverage Results" MODIFIED="1753880641674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$04_shopping_cart_program.coverage" NAME="04_shopping_cart_program Coverage Results" MODIFIED="1753041265725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
     <SUITE FILE_PATH="coverage/LearningPython$42_banking_program.coverage" NAME="42_banking_program Coverage Results" MODIFIED="1753979017169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" />
