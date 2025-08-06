@@ -21,6 +21,18 @@ Here I follow along and practice everything taught in this [YouTube tutorial by 
 - **Watch here:** [YT tutorial](https://youtu.be/ix9cRaBkVe0?si=lSy3fqqcjGa2YQ0y)  
 - **Length:** 12 hours
 
+
+---
+
+## 💻 Environment
+
+- **Python Version:** 3.11
+- **Installed Libraries:**  
+  - [`PyQt5`](https://pypi.org/project/PyQt5/) – for GUI applications  
+  - [`pygame`](https://pypi.org/project/pygame/) – for simple games and graphics
+  - [`requests`](https://pypi.org/project/requests/) – for api requests
+
+
 ---
 
 ## 📂 Project Structure
@@ -30,8 +42,18 @@ Here I follow along and practice everything taught in this [YouTube tutorial by 
 ```
 LearningPython/
 │
-│
-├── exercises/                  # Practice programs based on lessons
+├── end_projects/               # Ending Projects from the Tutorial
+│   ├── 75_digital_clock_program/
+│   │   ├── DS-DIGIT.TTF
+│   │   └── main.py
+│   │
+│   ├── 76_stopwatch_program/
+│   │   └── main.py
+│   │
+│   └── 77_weather_api_app/
+│       └── main.py
+│ 
+├── exercises/                  # Exercises from the Tutorial
 │   ├── 04_rectangle_area.py
 │   ├── 04_shopping_cart_program.py
 │   ├── 05_madlib_game.py
@@ -39,12 +61,19 @@ LearningPython/
 │   ├── 06_circumference_circle.py
 │   ├── 08_calculator.py
 │   ├── 09_weight_convertor.py
-│   └── 10_temperature_converter.py
-├── lessons/                    # Step-by-step lessons from the tutorial
+│   ├── 10_temperature_converter.py
 │   └── ...
-│   
-
-├── projects/                   # Future custom projects
+│
+├── lessons/                    # Lessons from the tutorial
+│   ├── 01_print.py
+│   ├── 02_variables.py
+│   ├── 03_typecasting.py
+│   ├── 04_input.py
+│   ├── 06_arithmetic_and_maths.py
+│   ├── 07_if_statements.py
+│   ├── 11_logical_operators.py
+│   ├── 12_conditional_expression.py
+│   └── ...
 │
 └── README.md                   # This file
 ```
@@ -53,5 +82,5 @@ LearningPython/
 > The files in the `lessons/` folder are mostly simple, linear scripts focused on syntax and concepts.  
 > They are **not designed to be reused or run interactively** — just follow along with the tutorial.
 >
-> In contrast, the files in `exercises/` and `projects/` are standalone and **meant to be executed**,  
+> In contrast, the files in `exercises/` and `end_projects/` are standalone and **meant to be executed**,  
 > as they simulate real programs or mini-applications.
